@@ -1,0 +1,16 @@
+C:\Users\Ansioso\source\repos\vgame\vgame\bin\Debug\netstandard2.0\vgame.deps.json
+C:\Users\Ansioso\source\repos\vgame\vgame\bin\Debug\netstandard2.0\vgame.dll
+C:\Users\Ansioso\source\repos\vgame\vgame\bin\Debug\netstandard2.0\ref\vgame.dll
+C:\Users\Ansioso\source\repos\vgame\vgame\bin\Debug\netstandard2.0\vgame.pdb
+C:\Users\Ansioso\source\repos\vgame\vgame\obj\Debug\netstandard2.0\vgame.csprojAssemblyReference.cache
+C:\Users\Ansioso\source\repos\vgame\vgame\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Ansioso\source\repos\vgame\vgame\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Ansioso\source\repos\vgame\vgame\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\Users\Ansioso\source\repos\vgame\vgame\obj\Debug\netstandard2.0\vgame.AssemblyInfoInputs.cache
+C:\Users\Ansioso\source\repos\vgame\vgame\obj\Debug\netstandard2.0\vgame.AssemblyInfo.cs
+C:\Users\Ansioso\source\repos\vgame\vgame\obj\Debug\netstandard2.0\vgame.dll
+C:\Users\Ansioso\source\repos\vgame\vgame\obj\Debug\netstandard2.0\ref\vgame.dll
+C:\Users\Ansioso\source\repos\vgame\vgame\obj\Debug\netstandard2.0\vgame.pdb
+C:\Users\Ansioso\source\repos\vgame\vgame\obj\Debug\netstandard2.0\Views\LandsPage.xaml.g.cs
+C:\Users\Ansioso\source\repos\vgame\vgame\obj\Debug\netstandard2.0\vgame.csproj.CoreCompileInputs.cache
+C:\Users\Ansioso\source\repos\vgame\vgame\obj\Debug\netstandard2.0\XamlC.stamp

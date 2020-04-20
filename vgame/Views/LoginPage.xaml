@@ -1,0 +1,52 @@
+﻿
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+            x:Class="vgame.Views.LoginPage"
+            BindingContext="{Binding Main, Source={StaticResource Locator}}"
+            Title="Login">
+            
+  <!--Pages can be added as references or inline-->
+  <ContentPage >
+    <ContentPage.Content>
+            <ScrollView
+                BindingContext="{Binding Login}">
+        <StackLayout Padding="10,20,10,5">
+                <Label
+                FontAttributes="Bold"
+                FontSize="Large"
+                HorizontalOptions="Center"
+                Text="Login">
+                </Label>
+                <Image
+                Source="descarga"></Image>
+                
+                <Label
+                    Text="Correo">
+                   </Label>
+                <Entry
+                    Keyboard="Email"
+                    Text="{Binding Email, Mode=TwoWay}"
+                    Placeholder="Ingresa tu correo">
+                </Entry>
+                <Label
+                Text="Contraseña">
+                </Label>
+                <Entry
+                IsPassword="True"
+                    Text="{Binding password,Mode=TwoWay}"
+                Placeholder="ingresa tu contraseña">
+                </Entry>
+            
+                    <ActivityIndicator
+                        IsRunning="{Binding IsRunning,Mode=TwoWay}">                    
+                </ActivityIndicator>
+            
+                <Button 
+                    Text="entrar" Command="{Binding LoginCommand}" 
+                    BackgroundColor="Aquamarine" BorderRadius="23">
+                </Button>
+            </StackLayout>
+            </ScrollView>
+        </ContentPage.Content>
+    </ContentPage>
+</TabbedPage>
